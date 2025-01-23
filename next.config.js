@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    reactStrictMode: true,
-    swcMinify: true,
+    reactStrictMode: true, // Sesuaikan dengan kebutuhan proyek
   };
   
   module.exports = nextConfig;
